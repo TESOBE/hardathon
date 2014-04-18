@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20140321T083000Z
+DTEND:20140321T203000Z
+DTSTAMP:20140227T102445Z
+ORGANIZER;CN=OBP Fin Tech London:mailto:ierd4b62dq6vou393sl9tctdso@group.ca
+ lendar.google.com
+UID:olnqnp26f0hh76unrke0sea0lc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ismail@tesobe.com;X-NUM-GUESTS=0:mailto:ismail@tesobe.com
+CLASS:PUBLIC
+CREATED:20140227T100716Z
+DESCRIPTION:Overview\n\nLocated in a great place for sky high ideas\, codin
+ g and views - Level39 at Canary Wharf - the 3rd edition of Hack/Make The Ba
+ nk Fin Tech Hackathon will host up to 70 programmers\, designers and member
+ s of the financial services industry who will come together for a day of br
+ ainstorming and software creation.\n\nThe room will be full of innovation a
+ nd game changing ideas in retail banking\, capital markets\, payments\, big
+  data and beyond!\n\nAttendees will have a host of application programming 
+ interfaces (APIs) and services they can leverage and combine in order to br
+ ing their innovative ideas to life. They can participate alone or join a te
+ am. Each team will work on a FinTech idea developed during the hackathon or
+  prior to it. All the participants will demo their hacks to a panel of bank
+  executives\, FinTech entrepreneurs and the general public at the end of th
+ e day.\n\nThis hackathon will be held at Level39\, Europe’s largest acceler
+ ator space for fintech\, located in Canary Wharf - London's leading finance
+  and business district. The event is organised by TESOBE / Open Bank Projec
+ t.\n\nAgenda:\n\n8:30 AM:        Doors open\n\n9:00 AM:        Hello world 
+ & APIs Presentations\n\n9:30 AM:        Project fire-pitches and Group-form
+ ing\n\n10:00 AM:      Hacking begins\n\n13:00 AM:      Lunch\n\n6:00 PM:   
+      Hacking ends\n\n6:30 PM:        Demos\n\n7:30 PM:        End\n\nRegist
+ ration\n\nAs the number of attendees is limited\, registration is free but 
+ mandatory. Please make sure to register so that we can give you access to L
+ evel39. Beginners and non-developers are welcome!\nView your event at http:
+ //www.google.com/calendar/event?action=VIEW&eid=b2xucW5wMjZmMGhoNzZ1bnJrZTB
+ zZWEwbGMgaXNtYWlsQHRlc29iZS5jb20&tok=NTIjaWVyZDRiNjJkcTZ2b3UzOTNzbDl0Y3Rkc2
+ 9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbTdmMWY4N2VjNjVjZDA2MjgyYzQ0MGZhY2FmZjQ3M
+ mQ1N2YxMTIyZjk&ctz=Europe/Berlin&hl=en.
+LAST-MODIFIED:20140227T102445Z
+LOCATION:Level39 One Canada Square Canary Wharf E14 5AB London United Kingd
+ om 
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hack (Make!) the Bank - Hackathon #3
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
