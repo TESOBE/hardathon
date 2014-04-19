@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://hardathon1.eventbrite.com
+DTSTART:20140511T170000Z
+DTEND:20140513T010000Z
+SUMMARY:Hardathon#1
+DESCRIPTION:For details, click here: https://hardathon1.eventbrite.com
+LOCATION:TESOBE - Osloer Straße 16/17 - 13359 Berlin - Germany
+END:VEVENT
+END:VCALENDAR
